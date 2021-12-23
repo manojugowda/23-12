@@ -1,6 +1,7 @@
 #!/bin/bash
 #line added
 #extra line
+#use git fetch
 echo "enter the name of the employee"
 read name
 echo "enter the designation"
